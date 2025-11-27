@@ -1,7 +1,7 @@
 # Mono-Frequency-Transmission-for-Space-Communication
 
 > NOTE:
->  - This project is currently being processed for patent, so some information may be redacted.
+>  - This project is currently being processed for patent, so some information may be redacted
 
 Dec 2024 - Nov 2025
 
