@@ -1,15 +1,12 @@
-# Non-Modulated-Signals-in-Space-Communication
+# Single-Frequency-Signals-for-Space-Communication
 
 > NOTE:
->  - This project is currently being processed for patent registration.
->  - In accordance, relevant files will be redacted until further updates.
->  - However, a summary of the project will still be available in the /docs folder.
->  - Thank you for your understanding.
+>  - This project is currently being processed for patent, so some information may be redacted.
 
-Dec 2024 - present
+Dec 2024 - Nov 2025
 
-Summary: Explored non-modulated transmission aided by a Lyapunov-inspired stability control system
+Summary: Explored single frequency transmission aided by a Lyapunov-inspired stability control system
 
-Application: Power efficient and secure communication for autonomous satellites
+Application: Power efficient and secure communication for autonomous LEO satellites
 
 Software Tool Used: MATLAB Simulink
