@@ -1,4 +1,4 @@
-# Mono-Frequency-Transmission-for-Space-Communication
+# Mono-Frequency-Transmission-for-LEO-Satellites
 
 > NOTE:
 >  - This project is currently being processed for patent, so some information may be redacted
